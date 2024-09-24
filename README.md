@@ -1,7 +1,11 @@
-## Hi there 👋
+<a href="https://app.daily.dev/leonardburgos"><img src="./devcard.png" width="356" alt="Leonard's Dev Card"/></a>
 
-I'm Leonard, passionate of Java and object oriented programming.
-Senior Software Engineer.
+## Hi there!
+
+I'm Leonard, passionate of Java, object oriented programming and Cloud solutions.
+
+- 🔭 Currently working as a Senior Software Engineer.
+- 🌱 Currently learning front-end frameworks and AI tools.
 
 <!--
 **burgosLeo96/burgosLeo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
