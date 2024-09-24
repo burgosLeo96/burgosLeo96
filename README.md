@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Leonard, passionate of Java and object oriented programming.
+Senior Software Engineer.
+
 <!--
 **burgosLeo96/burgosLeo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
